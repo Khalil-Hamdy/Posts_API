@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">posts_API_app</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+</resources>
